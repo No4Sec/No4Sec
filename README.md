@@ -43,7 +43,6 @@
 
 ### 🔗 Connect
 
-[![LinkedIn](https://www.linkedin.com/in/péter-sass-4bb554361/)  
 📫 sass.peter43@gmail.com
 
 ---
