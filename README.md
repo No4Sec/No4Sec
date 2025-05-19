@@ -1,55 +1,52 @@
-# 👾 NoSec
-
-🎯 Junior Penetration Tester | Red Team Enthusiast | Bug Hunter  
-🔐 TryHackMe TOP 1% — Ranked #95 in Hungary / #13,395 worldwide (all-time)  
-💥 Focused on real-world exploitation, red teaming tactics, and custom tooling.
-
----
-
-## 🧠 Currently working on
-- Offensive Pentesting (TryHackMe)
-- Red Teaming labs & AD abuse techniques
-- Hacking Hack The Box boxes (goal: 100+ rooted)
+<h1 align="center">👾 NoSec</h1>
+<p align="center">
+  🛡️ Junior Penetration Tester | 🕵️‍♂️ Red Team Enthusiast | 🐞 Bug Hunter  
+  <br>
+  🔐 TryHackMe TOP 1% — #95 🇭🇺 / #13,395 🌍 (all-time)
+</p>
 
 ---
 
-## 🛠️ Tools
-
-**Enumeration & Recon:**  
-Nmap • Gobuster • FFUF • Dirbuster • Feroxbuster • Seclists • Wappalyzer • Amass • Sublist3r
-
-**Web Exploitation:**  
-Burp Suite • SQLMap • WFuzz • XSStrike • WFuzz • FFUF
-
-**Privilege Escalation:**  
-LinPEAS / WinPEAS • GTFOBins • WinDbg • PowerUp • Seatbelt
-
-**Active Directory & Lateral Movement:**  
-CrackMapExec • BloodHound • Certipy • Kerbrute • Rubeus • Mimikatz
-
-**Password Attacks & Hash Cracking:**  
-JohnTheRipper • Hashcat • Hydra • Pypykatz
-
-**Post-Exploitation & Shells:**  
-Netcat • Nishang • PowerShell Empire • msfvenom • Meterpreter
-
-**Reverse Engineering & Debug:**  
-Ghidra • Objdump • strings • gdb • ltrace • strace
-
-**Scripting & Automation:**  
-Python • Bash • PowerShell • impacket • smbclient • ldapsearch
+<p align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/NoSec.png" alt="Your Image Badge" />
+</p>
 
 ---
 
-## 📜 Certifications
+### 🧠 Currently Working On
 
-- ✅ Pre Security  
-- ✅ Web Fundamentals  
-- ✅ Junior Penetration Tester  
-- ✅ Cyber Security 101  
-- ✅ Security Engineer  
-- ✅ CompTIA Pentest+  
+- 🎯 Offensive Pentesting (TryHackMe)
+- 🧪 Red Team labs, AD abuse
+- 🧨 Hack The Box machines (goal: 100+ rooted)
 
 ---
 
-**Always learning. Always breaking. Always improving.**
+### 🛠️ Red Team Toolkit
+
+| Category | Tools |
+|---------|-------|
+| Recon & Enum | Nmap, Gobuster, FFUF, Seclists, Feroxbuster |
+| Web Exploit | Burp Suite, SQLMap, XSStrike, WFuzz |
+| PrivEsc | LinPEAS, WinPEAS, GTFOBins, Seatbelt |
+| AD & Lateral | BloodHound, CrackMapExec, Certipy, Rubeus |
+| Hash Cracking | JohnTheRipper, Hashcat, Hydra |
+| RE & Shell | Ghidra, gdb, Netcat, Meterpreter |
+
+---
+
+### 📜 Certifications
+
+✅ Pre Security • Web Fundamentals • Jr Penetration Tester  
+✅ Cyber Security 101 • Security Engineer • CompTIA Pentest+  
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://www.linkedin.com/in/péter-sass-4bb554361/)  
+📫 sass.peter43@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=No4Sec&show_icons=true&theme=tokyon_
