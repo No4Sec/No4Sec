@@ -15,7 +15,7 @@
 
 ### 🧠 Currently Working On
 
-- 🎯 Offensive Pentesting (TryHackMe)
+- 🎯 PT1 (Pentester Level 1 – in progress @ TryHackMe)
 - 🧪 Red Team labs, AD abuse
 - 🧨 Hack The Box machines (goal: 100+ rooted)
 
