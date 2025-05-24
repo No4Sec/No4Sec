@@ -2,7 +2,7 @@
 <p align="center">
   🛡️ Junior Penetration Tester | 🕵️‍♂️ Red Team Enthusiast | 🐞 Bug Hunter  
   <br>
-  🔐 TryHackMe TOP 1% — #95 🇭🇺 / #13,395 🌍 (all-time)
+  🔐 TryHackMe TOP 1% — #72 🇭🇺 / #9519 🌍 (all-time)
 </p>
 
 ---
