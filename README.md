@@ -47,7 +47,7 @@
 
 - 🔗 [HTB Scepter (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/htb_scepter_writeup.md)
 - 🔗 [HTB TombWatcher (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/htb_tomb_watcher_writeup.md)
-- 🔗 [HTB The Frizz (Easy)](https://github.com/No4Sec/htb-writeups/blob/main/htb_the_frizz_writeup.md)
+- 🔗 [HTB The Frizz (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/htb_the_frizz_writeup.md)
 
 📁 Teljes repo: [HTB Writeups](https://github.com/No4Sec/htb-writeups)
 
