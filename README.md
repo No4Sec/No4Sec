@@ -45,12 +45,12 @@
 
 ### 📚 Featured Writeups
 
-- 🔗 [HTB Scepter (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/htb_scepter_writeup.md)
-- 🔗 [HTB TombWatcher (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/htb_tomb_watcher_writeup.md)
-- 🔗 [HTB The Frizz (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/htb_the_frizz_writeup.md)
-- 🔗 [HTB Certificate (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/htb_certificate_writeup.md)
+- 🔗 [HTB Scepter (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/scepter/htb_scepter_writeup_hun.md)
+- 🔗 [HTB TombWatcher (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/tomb_watcher/htb_tomb_watcher_writeup_hun.md)
+- 🔗 [HTB The Frizz (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/the_frizz/htb_the_frizz_writeup_hun.md)
+- 🔗 [HTB Certificate (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/certificate/htb_certificate_writeup_hun.md)
+- 🔗 [HTB WhiteRabbit (Insane)](https://github.com/No4Sec/htb-writeups/blob/main/white_rabbit/htb_white_rabbit_writeup_hun.md)
 - 🔗 HTB Haze (Hard) Cooming soon!
-- 🔗 HTB WhiteRabbit (Insane) Cooming soon!
 - 📁 Teljes repo: [HTB Writeups](https://github.com/No4Sec/htb-writeups)
 
 ---
