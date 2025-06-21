@@ -50,6 +50,7 @@
 - 🔗 [HTB The Frizz (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/the_frizz/htb_the_frizz_writeup_hun.md)
 - 🔗 [HTB Certificate (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/certificate/htb_certificate_writeup_hun.md)
 - 🔗 [HTB WhiteRabbit (Insane)](https://github.com/No4Sec/htb-writeups/blob/main/white_rabbit/htb_white_rabbit_writeup_hun.md)
+- 🔗 HTB Sorcery (Insane) Cooming soon!
 - 🔗 HTB Haze (Hard) Cooming soon!
 - 📁 Teljes repo: [HTB Writeups](https://github.com/No4Sec/htb-writeups)
 
