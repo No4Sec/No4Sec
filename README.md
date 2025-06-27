@@ -43,16 +43,21 @@
 
 ---
 
-### 📚 Featured Writeups
+## 📌 Machines
 
-- 🔗 [HTB Scepter (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/scepter/htb_scepter_writeup_hun.md)
-- 🔗 [HTB TombWatcher (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/tomb_watcher/htb_tomb_watcher_writeup_hun.md)
-- 🔗 [HTB The Frizz (Medium)](https://github.com/No4Sec/htb-writeups/blob/main/the_frizz/htb_the_frizz_writeup_hun.md)
-- 🔗 [HTB Certificate (Hard)](https://github.com/No4Sec/htb-writeups/blob/main/certificate/htb_certificate_writeup_hun.md)
-- 🔗 [HTB WhiteRabbit (Insane)](https://github.com/No4Sec/htb-writeups/blob/main/white_rabbit/htb_white_rabbit_writeup_hun.md)
-- 🔗 HTB Sorcery (Insane) Cooming soon!
-- 🔗 HTB Haze (Hard) Cooming soon!
-- 📁 Teljes repo: [HTB Writeups](https://github.com/No4Sec/htb-writeups)
+> 🚨 **Follow the HTB grind in real-time — leaks, drops, and deep writeups**  
+> 👉 [t.me/nosecpwn](https://t.me/nosecpwn)  
+> _Don't read. Join._
+
+| Name        | Difficulty | OS      | Link |
+|-------------|------------|---------|------|
+| TombWatcher | Medium     | Windows | [TombWatcher Writeup](https://github.com/No4Sec/htb-writeups/tree/main/tomb_watcher) |
+| The Frizz   | Medium     | Windows | [The Frizz Writeup](https://github.com/No4Sec/htb-writeups/tree/main/the_frizz)     |
+| Scepter     | Hard       | Windows | [Scepter writeup](https://github.com/No4Sec/htb-writeups/tree/main/scepter)    |
+| Certificate | Hard       | Windows | [Certificate writeup](https://github.com/No4Sec/htb-writeups/tree/main/certificate)  |
+| WhiteRabbit | Insane      | Linux   |[White Rabbit writeup](https://github.com/No4Sec/htb-writeups/tree/main/white_rabbit) |             |
+| Haze        | Hard       | Windows | Coming soon! |
+| Artificial  | Easy       | Linux   | Coming soon! |
 
 ---
 
