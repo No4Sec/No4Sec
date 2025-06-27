@@ -63,7 +63,9 @@
 - 🔐 [Hack The Box](https://app.hackthebox.com/profile/1170620)
 - 🔓 [TryHackMe](https://tryhackme.com/p/NoSec)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sasspeter/)
-- 💻 Need exclusive hint for the root? [Telegram](https://t.me/nosecpwn)
+- Need that extra push to root it? Join the Telegram.
+  (Exclusive hints & off-GitHub tricks.)
+- 💻 [Telegram](https://t.me/nosecpwn)
 ---
 
 <p align="center">
