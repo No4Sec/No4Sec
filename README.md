@@ -55,9 +55,9 @@
 | The Frizz   | Medium     | Windows | [The Frizz Writeup](https://github.com/No4Sec/htb-writeups/tree/main/the_frizz)     |
 | Scepter     | Hard       | Windows | [Scepter writeup](https://github.com/No4Sec/htb-writeups/tree/main/scepter)    |
 | Certificate | Hard       | Windows | [Certificate writeup](https://github.com/No4Sec/htb-writeups/tree/main/certificate)  |
-| WhiteRabbit | Insane      | Linux   |[White Rabbit writeup](https://github.com/No4Sec/htb-writeups/tree/main/white_rabbit) |             |
+| WhiteRabbit | Insane      | Linux   |[White Rabbit writeup](https://github.com/No4Sec/htb-writeups/tree/main/white_rabbit) |      
+| Artificial  | Easy       | Linux   | [Artificial writeup](https://github.com/No4Sec/htb-writeups/tree/main/artificial) |
 | Haze        | Hard       | Windows | Coming soon! |
-| Artificial  | Easy       | Linux   | Coming soon! |
 
 ---
 
