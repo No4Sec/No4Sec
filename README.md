@@ -57,6 +57,7 @@
 | Certificate | Hard       | Windows | [Certificate writeup](https://github.com/No4Sec/htb-writeups/tree/main/certificate)  |
 | WhiteRabbit | Insane      | Linux   |[White Rabbit writeup](https://github.com/No4Sec/htb-writeups/tree/main/white_rabbit) |      
 | Artificial  | Easy       | Linux   | [Artificial writeup](https://github.com/No4Sec/htb-writeups/tree/main/artificial) |
+| RustyKey        | Hard       | Windows | [RustyKey writeup](https://github.com/No4Sec/htb-writeups/tree/main/rusty_key) |
 | Haze        | Hard       | Windows | Coming soon! |
 
 ---
