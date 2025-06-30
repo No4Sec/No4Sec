@@ -2,7 +2,7 @@
 <p align="center">
   🛡️ Junior Pentester | 🧨 Red Team Enthusiast | 🐞 Bug Bounty Hunter  
   <br>
-  🔐 TryHackMe TOP 1% — #47 🇭🇺 / #6114 🌍 | HTB Pro Hacker – #640 Globally
+  🔐 TryHackMe TOP 1% — #47 🇭🇺 / #6114 🌍 | HTB Pro Hacker – #444 Globally
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 - 🧠 Preparing for **PT1 (Pentester Level 1)** cert @ TryHackMe
 - 🏴‍☠️ Active Directory exploitation, lateral movement, RBCD chains
-- 🧨 **Hack The Box** live machines (goal: 100 rooted – 37+ done so far)
+- 🧨 **Hack The Box** live machines (goal: 100 rooted – 43+ done so far)
 
 ---
 
