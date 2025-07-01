@@ -2,7 +2,7 @@
 <p align="center">
   🛡️ Junior Pentester | 🧨 Red Team Enthusiast | 🐞 Bug Bounty Hunter  
   <br>
-  🔐 TryHackMe TOP 1% — #47 🇭🇺 / #6114 🌍 | HTB Pro Hacker – #444 Globally
+  My website: https://nosecpwn.eu
 </p>
 
 ---
