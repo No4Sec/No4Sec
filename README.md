@@ -46,7 +46,7 @@
 ## 📌 Machines
 
 > 🚨 **Follow the HTB grind in real-time — leaks, drops, and deep writeups**  
-> 👉 [t.me/nosecpwn](https://t.me/nosecpwn)  
+> 👉 [t.me/nosecpwn](https://t.me/+B9EmF3fsJaYwMDI0)  
 > _Don't read. Join._
 
 | Name        | Difficulty | OS      | Link |
